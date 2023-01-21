@@ -1,0 +1,15 @@
+D:\Обучение GB\VC C# practice\practice 3\cube\bin\Debug\net7.0\cube.exe
+D:\Обучение GB\VC C# practice\practice 3\cube\bin\Debug\net7.0\cube.deps.json
+D:\Обучение GB\VC C# practice\practice 3\cube\bin\Debug\net7.0\cube.runtimeconfig.json
+D:\Обучение GB\VC C# practice\practice 3\cube\bin\Debug\net7.0\cube.dll
+D:\Обучение GB\VC C# practice\practice 3\cube\bin\Debug\net7.0\cube.pdb
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.csproj.AssemblyReference.cache
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.AssemblyInfoInputs.cache
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.AssemblyInfo.cs
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.csproj.CoreCompileInputs.cache
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.dll
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\refint\cube.dll
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.pdb
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\cube.genruntimeconfig.cache
+D:\Обучение GB\VC C# practice\practice 3\cube\obj\Debug\net7.0\ref\cube.dll

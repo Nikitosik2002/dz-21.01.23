@@ -35,7 +35,7 @@ int summ = 0;
         }
     }
 
-System.Console.WriteLine("Сумма чисел состоящих на неченой позиции массива = " + summ);
+System.Console.WriteLine("Сумма чисел состоящих на нечетной позиции массива = " + summ);
 System.Console.WriteLine("--------");
 
 int composition = 1;

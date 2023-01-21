@@ -3,7 +3,7 @@
 var random = new Random();
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = random.Next(0,9);
+    array[i] = random.Next(0,10);
 }
 
 foreach (int j in array)
